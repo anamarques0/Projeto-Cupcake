@@ -1,3 +1,18 @@
+# 🍰 Doce Sabor - Sistema de Pedidos de Cupcakes
+
+Aplicação web completa para gerenciamento de pedidos de cupcakes. Permite o cadastro de usuários, exibição de produtos, realização de pedidos com horário de retirada e visualização do histórico de compras.
+
+---
+
+## 📌 Funcionalidades
+
+- Cadastro de usuário com nome, login, e endereço
+- Visualização de produtos com imagem, descrição e preço
+- Realização de pedidos com seleção de quantidade e horário
+- Consulta de pedidos anteriores e status
+
+---
+
 Situação Problema 1:
 
 Verificar e adeque seu escopo/ideia ea prepare para a execução;
